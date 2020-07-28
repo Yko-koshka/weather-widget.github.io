@@ -1,0 +1,17 @@
+.nav-item {
+  text-align: center;
+}
+
+.button {
+  background-color: rgb(0, 255, 255);
+  border: none;
+}
+
+.temp,
+.temp2,
+.temp3,
+.temp4,
+.temp5 {
+  display: flex;
+  justify-content: space-around;
+}
